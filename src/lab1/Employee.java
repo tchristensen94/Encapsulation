@@ -78,4 +78,8 @@ public class Employee {
             return "Orientation in progress...";
         }
     }
+
+    public void setCubeId(String id) {
+        this.cubeId = cubeId;
+    }
 }
