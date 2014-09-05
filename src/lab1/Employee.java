@@ -82,4 +82,9 @@ public class Employee {
     public void setCubeId(String id) {
         this.cubeId = cubeId;
     }
+
+    public String getCubeId() {
+        return cubeId;
+    }
+
 }
